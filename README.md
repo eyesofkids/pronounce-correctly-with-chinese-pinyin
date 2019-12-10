@@ -5,11 +5,11 @@
 
 
 | 單字 | 中文(台語)拼音 | 音標 | 備註 |
-| ------- | ------- | ------- | ------- |
+| --- | --- | --- | --- |
 | abstract [🔊](http://dict.youdao.com/dictvoice?audio=abstract&type=1) | A撥斯跩特 | /'æbstrækt/ ||
 | arguments [🔊](http://dict.youdao.com/dictvoice?audio=arguments&type=1) | 阿/球(台)/門吃 | /'ɑrɡjumənt/ ||
-| await [🔊](http://dict.youdao.com/dictvoice?audio=await&type=2) | 俄胃 | /ə'wet/ ||
-| ⭐babel [🔊](http://dict.youdao.com/dictvoice?audio=babel&type=2) | 貝波 | /ˈbebəl/ | 這字常唸錯是因為中文翻譯為"巴貝爾塔、巴比倫塔"，第一個發音實際為"貝"才對，而不是"巴"。|
+| await [🔊](http://dict.youdao.com/dictvoice?audio=await&type=2) | 餓胃 | /ə'wet/ ||
+| ⭐babel [🔊](http://dict.youdao.com/dictvoice?audio=babel&type=2) | 貝波 | /ˈbebəl/ | 中文翻譯為"巴貝爾塔、巴比倫塔"，第一個發音為"貝"才對，而不是"巴"。|
 | boolean [🔊](http://dict.youdao.com/dictvoice?audio=boolean&type=1) | 布林 | /ˈbuliən/ ||
 | bool [🔊](http://dict.youdao.com/dictvoice?audio=bool&type=1) | 布林 | /bul/ ||
 | break [🔊](http://dict.youdao.com/dictvoice?audio=break&type=1) | 布雷克 | /brek/ ||
