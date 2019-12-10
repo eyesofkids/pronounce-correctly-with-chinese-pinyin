@@ -21,6 +21,12 @@
 | const [🔊](http://dict.youdao.com/dictvoice?audio=const&type=2) | 康斯 |  | 這字字典是沒有的，是 constant 的簡寫 |
 | constant [🔊](http://dict.youdao.com/dictvoice?audio=constant&type=2) | 康斯登 | /'kɑnstənt/ ||
 | continue [🔊](http://dict.youdao.com/dictvoice?audio=continue&type=2) | 康踢扭 | /kən'tɪnju/ ||
+| default [🔊](http://dict.youdao.com/dictvoice?audio=default&type=2) | 迪佛特 | /dɪ'fɔlt/ | 重音在後面，也就是"佛特" |
+| default [🔊](http://dict.youdao.com/dictvoice?audio=default&type=2) | 迪佛特 | /dɪ'fɔlt/ | 重音在後面，也就是"佛特" |
+| font [🔊](http://dict.youdao.com/dictvoice?audio=font&type=2) | 放特 | /fɑnt/ ||
+| for [🔊](http://dict.youdao.com/dictvoice?audio=for&type=2) | 佛兒 | /fɔr,fə/ ||
+| form [🔊](http://dict.youdao.com/dictvoice?audio=form&type=2) | 奉嗯 | /fɔrm/ ||
+| from [🔊](http://dict.youdao.com/dictvoice?audio=from&type=2) | 放嗯 | /frʌm/ ||
 
 
 
