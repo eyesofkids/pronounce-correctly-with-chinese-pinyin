@@ -4,8 +4,8 @@
 
 
 
-| 英文原本單字  | 用中文(台語)拼音 | 音標 | 備註 |
-| ---- | ------- | ------- | ------- |
+| 單字 | 中文(台語)拼音 | 音標 | 備註 |
+| ------- | ------- | ------- | ------- |
 | abstract [🔊](http://dict.youdao.com/dictvoice?audio=abstract&type=1) | A撥斯跩特 | /'æbstrækt/ ||
 | arguments [🔊](http://dict.youdao.com/dictvoice?audio=arguments&type=1) | 阿/球(台)/門吃 | /'ɑrɡjumənt/ ||
 | await [🔊](http://dict.youdao.com/dictvoice?audio=await&type=2) | 俄胃 | /ə'wet/ ||
