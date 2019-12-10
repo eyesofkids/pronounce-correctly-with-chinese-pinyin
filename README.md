@@ -29,8 +29,6 @@
 | else [🔊](http://dict.youdao.com/dictvoice?audio=else&type=2) | A啊死 | /ɛls/ |  |
 | 🙀enum [🔊](http://dict.youdao.com/dictvoice?audio=enum&type=2) | 易囊 | Ee-numb | 此字為 enumeration/易扭麼雷遜/ 的簡寫，注意母音變了。讀音參考[影片1](https://www.youtube.com/watch?v=K8EFmjTxyXw)和[影片2](https://www.youtube.com/watch?v=qvOTvgtwV5c) |
 | 🙀eval [🔊](http://dict.youdao.com/dictvoice?audio=eval&type=2) | 掖毛哦 | EE-val | evaluation/易妹留A遜/ 的簡寫，注意母音有點變。[讀音影片](https://www.youtube.com/watch?v=1QgtR0PX1bU) |
-
-
 | ⭐false [🔊](http://dict.youdao.com/dictvoice?audio=false&type=2) | 佛斯 | /fɔls/ | |
 | ⭐falsy [🔊](http://dict.youdao.com/dictvoice?audio=falsy&type=2) | 佛西 | | 字典沒有，被發明的字詞 |
 | font [🔊](http://dict.youdao.com/dictvoice?audio=font&type=2) | 放特 | /fɑnt/ | "放"唸重一點 |
