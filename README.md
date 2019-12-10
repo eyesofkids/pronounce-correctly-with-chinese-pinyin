@@ -18,7 +18,7 @@
 | catch [🔊](http://dict.youdao.com/dictvoice?audio=catch&type=2) | /客(台)/取 | /kætʃ/ ||
 | char [🔊](http://dict.youdao.com/dictvoice?audio=char&type=2) | 恰兒 | /kætʃ/ ||
 | class [🔊](http://dict.youdao.com/dictvoice?audio=class&type=2) | 課累斯 | /klæs/ ||
-| const [🔊](http://dict.youdao.com/dictvoice?audio=const&type=2) | 康斯 | 這字字典是沒有的，是 constant 的簡寫 ||
+| const [🔊](http://dict.youdao.com/dictvoice?audio=const&type=2) | 康斯 |  | 這字字典是沒有的，是 constant 的簡寫 |
 | constant [🔊](http://dict.youdao.com/dictvoice?audio=constant&type=2) | 康斯登 | /'kɑnstənt/ ||
 | continue [🔊](http://dict.youdao.com/dictvoice?audio=continue&type=2) | 康踢扭 | /kən'tɪnju/ ||
 
